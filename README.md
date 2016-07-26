@@ -3,6 +3,7 @@
 - Be on OSX
 - Install Vice 2.4 from dmg to /Applications/vice64, do not compile from source due to hobbled libraries
 - Clone contiki from github
+- Install cc65 from github
 - Set up cartridge emulation from Inspector in Vice (apple-I)
 - Install gmake from homebrew (homebrew/dupes/make)
 - Install libpcap from homebrew (homebrew/dupes/libpcap)
